@@ -13,3 +13,15 @@
 # Education 
 * Dilploma in Mass Media and Journalism - Mon National College
 * Batchelor in International Business and Management - Payap University
+
+# Core Values
+* Respect and Respondibility
+* Resilience and Empathy
+* Learning and Integrity
+
+# Skills
+* Communication and Writing: Clear, Professional writing; reporting
+* Business and Analytical Skills: Market research, presentation, report writing
+* Soft Skills: Teamwork, organization, problem-solving
+
+    
