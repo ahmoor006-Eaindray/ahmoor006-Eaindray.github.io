@@ -1,4 +1,4 @@
-<img src="https://ahmoor006-Eaindray.github.io/img/portfolio.jpg" width="18%" align="left">
+<img src="https://github.com/ahmoor006-Eaindray/ahmoor006-Eaindray.github.io/commit/c39b78965c3e16fded84d716e6dd91e93237732a" width="18%" align="left">
 
 
 # _Eaindray Tun_
