@@ -1,4 +1,4 @@
-<img src="https://ahmoor006-Eaindray.github.io/img/green-curry-new-sq-2.jpg" width="10%" align="right">
+<img src="https://ahmoor006-Eaindray.github.io/img/green-curry-new-sq-2.jpg" width="10%" align="middle">
 
 # _Eaindray Tun_
 >_A Resilient and Compassionate Learner_<br />
