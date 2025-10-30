@@ -1,4 +1,4 @@
-<img src="https://ahmoor006-Eaindray.github.io/img/green-curry-new-sq-2.jpg" width="22%" align="left">
+<img src="https://ahmoor006-Eaindray.github.io/img/green-curry-new-sq-2.jpg" width="18%" align="left">
 
 
 # _Eaindray Tun_
