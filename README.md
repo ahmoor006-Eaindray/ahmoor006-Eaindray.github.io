@@ -1,7 +1,6 @@
 <img src="https://ahmoor006-Eaindray.github.io/portfolio.jpg" width="30%" align="above">
 
 <div style="font-family: 'Times New Roman', serif; font-size: 12px;">
----
   
 # _Eaindray Tun_ 
 >_A Resilient and Compassionate Learner_<br />
@@ -19,23 +18,27 @@
 * Respect and Respondibility
 * Resilience and Empathy
 * Learning and Integrity
+---
 
 # Skills
 * Communication and Writing: Clear, Professional writing; reporting
 * Business and Analytical Skills: Market research, presentation, report writing
 * Soft Skills: Teamwork, organization, problem-solving
+---
 
 # Certifications and Activities
 * Youth Leadership and Advocacy Training
 * Communication and Facilitation Workshop
 * Ethical Journalism and Media Training
 * Community Volunteer Engagement
+---
 
 # Languages
 * Mon(Native)
 * Burmese(Fluent)
 * English(Proficiency)
 * Thailand(Basic)
+---
 
 # Contact Info
 * Phone - 0617390415
