@@ -1,6 +1,6 @@
 <img src="https://ahmoor006-Eaindray.github.io/portfolio.jpg" alt="ET Photo" width="30%" align="right">
 
-# Eaindray Tun_
+# Eaindray Tun
 >_A Resilient and Compassionate Learner_<br />
 > Payap University, International Business and Management<br />
 >Amphur Mueang, Chiang Mai 50000, Thailand<br />                                                                                                                      
