@@ -1,4 +1,4 @@
-<img src="https://ahmoor006-Eaindray.github.io/portfolio.jpg" width="30%" align="right">
+<img src="https://ahmoor006-Eaindray.github.io/portfolio.jpg" width="30%" align="above">
 
 <div style="font-family: 'Times New Roman', serif; font-size: 12px;">
 
