@@ -7,7 +7,7 @@
 <div style="font-family: 'Times New Roman', serif; font-size: 12px;">
 
 ---
-# **Eaindray Tun**  
+# Eaindray Tun  
 > <i>A Resilient and Compassionate Learner</i><br>
 > Payap University, International Business and Management<br>
 > Amphur Mueang, Chiang Mai 50000, Thailand  
