@@ -1,4 +1,8 @@
-<img src="https://ahmoor006-Eaindray.github.io/portfolio.jpg" width="30%" align="right">
+<div style="float: right; width: 30%; margin-left: 20px;">
+
+<img src="https://ahmoor006-Eaindray.github.io/portfolio.jpg" width="100%" style="border-radius: 10px;">
+
+</div>
 
 <div style="font-family: 'Times New Roman', serif; font-size: 12px;">
 
@@ -10,6 +14,7 @@
 Passionate and socially conscious, I seek to apply my skills in business and communication to support effective corporate communication, enhance stakeholder engagement, and strengthen organizational reputation. I am committed to delivering accurate and compelling messages that inspire positive impact.
 
 ---
+
 
 ##  Education  
 - **Diploma in Mass Media and Journalism** – Mon National College  
