@@ -1,60 +1,40 @@
-<div style="float: right; width: 30%; margin-left: 20px;">
+<img src="https://ahmoor006-Eaindray.github.io/portfolio.jpg" width="30%" align="right">
 
-<img src="https://ahmoor006-Eaindray.github.io/portfolio.jpg" width="25%" align="right" style="border-radius: 10px;">
+# _Eaindray Tun_ 
+>_A Resilient and Compassionate Learner_<br />
+> Payap University, International Business and Management<br />
+>Amphur Mueang, Chiang Mai 50000, Thailand<br />                                                                                                                      
 
-</div>
+>Passionate and socially conscious, I seek to apply my skills in business and communication to support effective corporate communication, enhance stakeholder engagement, and stregthen organizational reputation. I am commited to delivering accurate and compelling messages that inspire positive impact<br />
 
-<div style="font-family: 'Times New Roman', serif; font-size: 12px;">
+# Education 
+* Dilploma in Mass Media and Journalism - Mon National College
+* Batchelor in International Business and Management - Payap University
 
-# <i>**Eaindray Tun**</i>
----
-> <i>A Resilient and Compassionate Learner</i><br>
-> Payap University, International Business and Management<br>
-> Amphur Mueang, Chiang Mai 50000, Thailand  
+# Core Values
+* Respect and Respondibility
+* Resilience and Empathy
+* Learning and Integrity
 
-Passionate and socially conscious, I seek to apply my skills in business and communication to support effective corporate communication, enhance stakeholder engagement, and strengthen organizational reputation. I am committed to delivering accurate and compelling messages that inspire positive impact.
+# Skills
+* Communication and Writing: Clear, Professional writing; reporting
+* Business and Analytical Skills: Market research, presentation, report writing
+* Soft Skills: Teamwork, organization, problem-solving
 
----
+# Certifications and Activities
+* Youth Leadership and Advocacy Training
+* Communication and Facilitation Workshop
+* Ethical Journalism and Media Training
+* Community Volunteer Engagement
 
+# Languages
+* Mon(Native)
+* Burmese(Fluent)
+* English(Proficiency)
+* Thailand(Basic)
 
-##  Education  
-- **Diploma in Mass Media and Journalism** – Mon National College  
-- **Bachelor in International Business and Management** – Payap University  
+# Contact Info
+* Phone - 0617390415
+* Email - ahmoor006@gmail.com
 
----
-
-##  Core Values  
-- Respect and Responsibility  
-- Resilience and Empathy  
-- Learning and Integrity  
-
----
-
-##  Skills  
-- **Communication and Writing:** Clear, professional writing; reporting  
-- **Business and Analytical Skills:** Market research, presentation, report writing  
-- **Soft Skills:** Teamwork, organization, problem-solving  
-
----
-
-##  Certifications and Activities  
-- Youth Leadership and Advocacy Training  
-- Communication and Facilitation Workshop  
-- Ethical Journalism and Media Training  
-- Community Volunteer Engagement  
-
----
-
-##  Languages  
-- **Mon** (Native)  
-- **Burmese** (Fluent)  
-- **English** (Proficient)  
-- **Thai** (Basic)  
-
----
-
-##  Contact Info  
-- **Phone:** 0617390415  
-- **Email:** [ahmoor006@gmail.com](mailto:ahmoor006@gmail.com)
-
-</div>
+    
