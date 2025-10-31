@@ -1,4 +1,4 @@
-<img src="https://ahmoor006-Eaindray.github.io/portfolio.jpg" alt="ET Photo" width="30%" align="right">
+<img src="https://ahmoor006-Eaindray.github.io/img/portfolio.jpg" alt="ET Photo" width="30%" align="right">
 
 # _Eaindray Tun_
 >_A Resilient and Compassionate Learner_<br />
