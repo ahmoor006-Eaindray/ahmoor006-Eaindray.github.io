@@ -36,6 +36,22 @@ Passionate and socially conscious, I seek to apply my skills in business and com
 
 ---
 
+##  Experiences  
+
+- **Student Support Volunteer – Mae Sot**  
+  Assisted students with **mental health and emotional support**, focusing on **children’s well-being** and resilience development.  
+
+- **Online Teaching Assistant**  
+  Delivered **educational guidance** and facilitated online learning sessions to support students’ academic progress.  
+
+- **Waste Management Project – Payap University**  
+  Participated in a **sustainability and waste reduction initiative**, contributing to environmental awareness and responsible waste management practices.  
+
+- **Research Interviewer**  
+  Conducted **interviews and data collection** to support academic research, developing strong communication and qualitative research skills.  
+
+---
+
 ##  Certifications and Activities  
 - Youth Leadership and Advocacy Training  
 - Communication and Facilitation Workshop  
