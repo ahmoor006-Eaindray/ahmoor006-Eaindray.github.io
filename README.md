@@ -7,7 +7,7 @@
 >Amphur Mueang, Chiang Mai 50000, Thailand<br />                                                                                                                      
 
 
-# Personal Statement
+
 >Passionate and socially conscious, I seek to apply my skills in business and communication to support effective corporate communication, enhance stakeholder engagement, and stregthen organizational reputation. I am commited to delivering accurate and compelling messages that inspire positive impact.
 
 # Education 
