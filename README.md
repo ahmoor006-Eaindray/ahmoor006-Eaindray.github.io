@@ -1,6 +1,6 @@
 <div style="float: right; width: 30%; margin-left: 20px;">
 
-<img src="https://ahmoor006-Eaindray.github.io/portfolio.jpg" width="30%" align="left" style="border-radius: 10px;">
+<img src="https://ahmoor006-Eaindray.github.io/portfolio.jpg" width="25%" align="right" style="border-radius: 10px;">
 
 </div>
 
