@@ -1,11 +1,12 @@
 <img src="https://ahmoor006-Eaindray.github.io/portfolio.jpg" width="30%" align="right">
 
+<div style="font-family: 'Times New Roman', serif; font-size: 12px;">
 # _Eaindray Tun_ 
 >_A Resilient and Compassionate Learner_<br />
 > Payap University, International Business and Management<br />
 >Amphur Mueang, Chiang Mai 50000, Thailand<br />                                                                                                                      
 
->Passionate and socially conscious, I seek to apply my skills in business and communication to support effective corporate communication, enhance stakeholder engagement, and stregthen organizational reputation. I am commited to delivering accurate and compelling messages that inspire positive impact.<br />
+>Passionate and socially conscious, I seek to apply my skills in business and communication to support effective corporate communication, enhance stakeholder engagement, and stregthen organizational reputation. I am commited to delivering accurate and compelling messages that inspire positive impact.
 
 # Education 
 * Dilploma in Mass Media and Journalism - Mon National College
@@ -36,5 +37,5 @@
 # Contact Info
 * Phone - 0617390415
 * Email - ahmoor006@gmail.com
-
+</div>
     
