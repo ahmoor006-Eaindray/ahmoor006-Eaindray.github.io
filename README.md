@@ -24,4 +24,22 @@
 * Business and Analytical Skills: Market research, presentation, report writing
 * Soft Skills: Teamwork, organization, problem-solving
 
+# Certifications and Activities
+* Youth Leadership and Advocacy Training
+* Communication and Facilitation Workshop
+* Ethical Journalism and Media Training
+* Community Volunteer Engagement
+
+# Languages
+* Mon(Native)
+* Burmese(Fluent)
+* English(Proficiency)
+* Thailand(Basic)
+
+# Contact Info
+* Phone - 0617390415
+* Email - ahmoor006@gmail.com
+
+xxxxxxxxx
+
     
