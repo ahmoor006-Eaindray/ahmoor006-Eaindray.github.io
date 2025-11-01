@@ -1,10 +1,4 @@
-<div style="float: right; width: 30%; margin-left: 20px;">
-
 <img src="https://ahmoor006-Eaindray.github.io/portfolio.jpg" width="25%" align="above" style="border-radius: 10px;">
-
-</div>
-
-<div style="font-family: 'Times New Roman', serif; font-size: 12px;">
 
 ## <i>**Eaindray Tun**</i>
 > <i>A Resilient and Compassionate Learner</i><br>
@@ -71,5 +65,3 @@ Passionate and socially conscious, I seek to apply my skills in business and com
 ##  Contact Info  
 - **Phone:** 0617390415  
 - **Email:** [ahmoor006@gmail.com](mailto:ahmoor006@gmail.com)
-
-</div>
