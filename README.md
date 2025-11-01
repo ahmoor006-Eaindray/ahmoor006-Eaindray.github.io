@@ -17,7 +17,7 @@ Passionate and socially conscious, I seek to apply my skills in business and com
 
 
 ##  Education  
-- **Diploma in Mass Media and Journalism** – Mon National College  
+- **Associate in Mass Media and Journalism** – Mon National College  
 - **Bachelor in International Business and Management** – Payap University  
 
 ---
