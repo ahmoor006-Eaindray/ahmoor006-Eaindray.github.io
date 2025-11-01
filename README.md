@@ -63,4 +63,4 @@
 
 ##  Contact Info  
 * Phone: 0617390415  
-* Email: [ahmoor006@gmail.com]
+* Email: ahmoor006@gmail.com
